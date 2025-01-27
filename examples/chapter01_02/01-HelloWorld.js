@@ -1,7 +1,7 @@
 // @ts-check
 /* eslint-disable */
 
-// ******* Básico sobre o JavaScript ********
+/* Básico sobre o JavaScript */
 
 function output(t) {
     document.write('<p>' + t + '</p>');

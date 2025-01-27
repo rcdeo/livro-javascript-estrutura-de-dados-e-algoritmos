@@ -1,7 +1,7 @@
 // @ts-check
 /* eslint-disable */
 
-// ******* Variáveis ********
+/* Variáveis */
 
 var num = 1; // {1}
 num = 3; // {2}
@@ -19,7 +19,7 @@ console.log('price: ' + price);
 console.log('nullVar: ' + nullVar);
 console.log('und: ' + und);
 
-// ******* Escopo das Variáveis ********
+/* Escopo das Variáveis */
 
 var myVariable = 'global';
 myOtherVariable = 'global';
